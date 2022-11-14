@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="EquipmentTypes">
+        <item>Televisor</item>
+        <item>Radio</item>
+        <item>Teléfono</item>
+    </string-array>
+</resources>
